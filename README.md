@@ -14,15 +14,14 @@
 <br>
 <p align="left">
 	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="32"/>
-	<!--<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="32"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="32"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="40" height="32"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" width="40" height="32"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" width="40" height="32"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="32"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="32"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original-wordmark.svg" width="40" height="32"/>-->
-
+	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="32"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="32"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" width="40" height="32"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/express/express-original-wordmark.svg" width="40" height="32"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" width="40" height="32"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="32"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="32"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg" width="40" height="32"/>
 </p>
 
 <p align="left">
